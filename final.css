@@ -73,8 +73,8 @@ header h4 {
 .img {
   background-color: white;
   object-fit: contain;
-  width: 23rem;
-  height: 23rem;
+  width: 400px;
+  height: 400px;
   border-radius: 2%;
 }
 .imageContainer {
